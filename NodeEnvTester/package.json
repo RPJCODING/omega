@@ -1,0 +1,14 @@
+{
+  "name": "env_tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "RPJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
