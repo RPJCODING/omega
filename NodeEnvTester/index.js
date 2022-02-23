@@ -51,6 +51,16 @@ app.get("/api/foo", (req, res) => {
     response.send("A rota /api/foo deu certo")
 });
 
+app.use(function (req, resp, next) {
+    resp.send("NODE EXPRESS 404");
+})
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
+
+//  ../../../../etc/nginx/sites-available/
+
+//  ../../../home/ubuntu/app/NodeEnvTester/
+
+//  sudo systemctl restart nginx
