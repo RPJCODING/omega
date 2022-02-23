@@ -43,12 +43,12 @@ app.get('/', (req, res) => {
   </HTML>`);
 })
 
-app.get("/api", (req, res) => {
-    response.send("A rota /api deu certo")
+app.get("/api", (req, resp) => {
+    resp.send("A rota \/api deu certo")
 });
 
 app.get("/api/foo", (req, res) => {
-    response.send("A rota /api/foo deu certo")
+    resp.send("A rota /api/foo deu certo")
 });
 
 app.use(function (req, resp, next) {
