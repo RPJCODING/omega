@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "428ffa636120896aa8bbcfc77de37368",
+  "assets/AssetManifest.json": "d547bc8d7d98e3b3b465053caaae9bc6",
 "assets/assets/svg/b2w_logo.svg": "2fcb2d55882bfe888e2abd4d08d72b91",
 "assets/assets/svg/correios_logo.svg": "f5130da747783c9a7ceb824020c213e3",
 "assets/assets/svg/leroy_merlin_logo.svg": "578c99a3d35e79093fd4414df70ec0a0",
 "assets/assets/svg/lojas_americanas_logo.svg": "53209bfb587b4d6040720980cfecb4a3",
 "assets/assets/svg/mercado_libre_logo.svg": "2003532456aa02e7591a01a06aac1f88",
 "assets/assets/svg/omega_logo.svg": "4f2f7061638a2f271835d73adc855c7c",
+"assets/assets/svg/pac_tag_symbol.svg": "4b202269727530cfe7509861cb0d90ac",
+"assets/assets/svg/sedex_tag_symbol.svg": "cb399cc116febcb868819461f9985652",
 "assets/assets/svg/shopee_logo.svg": "dc80695ca728fb49baf604dba8126fbd",
 "assets/FontManifest.json": "7aaf3996738086bbd796613e14ef9e45",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -31,18 +33,14 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf": "d2285965fe34b05465047401b8595dd0",
 "assets/packages/flutter_icons/fonts/weathericons.ttf": "4618f0de2a818e7ad3fe880e0b74d04a",
 "assets/packages/flutter_icons/fonts/Zocial.ttf": "5cdf883b18a5651a29a4d1ef276d2457",
-"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
-"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
-"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
-"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e6b241292b35125e6be604065be439b6",
-"/": "e6b241292b35125e6be604065be439b6",
-"main.dart.js": "94c48ac702c4a8df8c100a8de7b6ffb1",
+"index.html": "02baa4553f8c29b8c7686f9f9543e56a",
+"/": "02baa4553f8c29b8c7686f9f9543e56a",
+"main.dart.js": "e6e155c994921d050c1d392359b0a44c",
 "manifest.json": "25c2a5f8c70e96d25d503a427e8d7f65",
 "version.json": "bb85e32a1929029013d07ba0b1ad35e3"
 };
