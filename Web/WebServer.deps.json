@@ -10,7 +10,7 @@
       "WebServer/1.0.0": {
         "dependencies": {
           "ModularSystem.Core": "1.9.2",
-          "PlataformaOmega.IntegrationLibrary": "1.2.3",
+          "PlataformaOmega.IntegrationLibrary": "1.2.4",
           "Swashbuckle.AspNetCore.Swagger": "6.2.3",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
           "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
@@ -913,14 +913,14 @@
           }
         }
       },
-      "PlataformaOmega.IntegrationLibrary/1.2.3": {
+      "PlataformaOmega.IntegrationLibrary/1.2.4": {
         "dependencies": {
           "ModularSystem.Core": "1.9.2"
         },
         "runtime": {
           "lib/net6.0/IntegrationLibrary.dll": {
-            "assemblyVersion": "1.2.3.0",
-            "fileVersion": "1.2.3.0"
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
           }
         }
       },
@@ -2631,12 +2631,12 @@
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
-    "PlataformaOmega.IntegrationLibrary/1.2.3": {
+    "PlataformaOmega.IntegrationLibrary/1.2.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/LEXYfYkZdpV5PUddKVztKO9L6gNPZ9aEPnum0b0Ym+Cf7oh0rTlgEZvwB/gz7lvZ5PStcQWqoZuGItIfpfDjw==",
-      "path": "plataformaomega.integrationlibrary/1.2.3",
-      "hashPath": "plataformaomega.integrationlibrary.1.2.3.nupkg.sha512"
+      "sha512": "sha512-/QdtBcg5iwQurs/W/rNoW8IHSoOnoma1/xOuUD+mL4QNW2SFqDFg+eQ2lKAQWEb5jEt6yPqJ/Ls7q90cYjiFMg==",
+      "path": "plataformaomega.integrationlibrary/1.2.4",
+      "hashPath": "plataformaomega.integrationlibrary.1.2.4.nupkg.sha512"
     },
     "runtime.any.System.Collections/4.3.0": {
       "type": "package",
