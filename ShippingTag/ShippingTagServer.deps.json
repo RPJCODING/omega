@@ -9,8 +9,8 @@
     ".NETCoreApp,Version=v6.0/linux-x64": {
       "ShippingTagServer/1.0.0": {
         "dependencies": {
-          "ModularSystem.Core": "1.14.1",
-          "PlataformaOmega.IntegrationLibrary": "1.5.0",
+          "ModularSystem.Core": "1.14.2",
+          "PlataformaOmega.IntegrationLibrary": "1.5.2",
           "Swashbuckle.AspNetCore.Swagger": "6.2.3",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
           "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
@@ -772,7 +772,7 @@
           "System.Security.Principal.Windows": "4.5.0"
         }
       },
-      "ModularSystem.Core/1.14.1": {
+      "ModularSystem.Core/1.14.2": {
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.Hosting": "2.2.7",
@@ -781,8 +781,8 @@
         },
         "runtime": {
           "lib/net6.0/ModularSystem.Core.dll": {
-            "assemblyVersion": "1.14.1.0",
-            "fileVersion": "1.14.1.0"
+            "assemblyVersion": "1.14.2.0",
+            "fileVersion": "1.14.2.0"
           }
         }
       },
@@ -914,14 +914,14 @@
           }
         }
       },
-      "PlataformaOmega.IntegrationLibrary/1.5.0": {
+      "PlataformaOmega.IntegrationLibrary/1.5.2": {
         "dependencies": {
-          "ModularSystem.Core": "1.14.1"
+          "ModularSystem.Core": "1.14.2"
         },
         "runtime": {
           "lib/net6.0/IntegrationLibrary.dll": {
-            "assemblyVersion": "1.5.0.0",
-            "fileVersion": "1.5.0.0"
+            "assemblyVersion": "1.5.2.0",
+            "fileVersion": "1.5.2.0"
           }
         }
       },
@@ -2576,12 +2576,12 @@
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
     },
-    "ModularSystem.Core/1.14.1": {
+    "ModularSystem.Core/1.14.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-okAlkSCsLjXdK4S07D1y6lrfSPGlWaBo1jtK+qD24UnI2XU62una3LuIAJb8qifKy60vHmPhPj8MuDCqhITHVw==",
-      "path": "modularsystem.core/1.14.1",
-      "hashPath": "modularsystem.core.1.14.1.nupkg.sha512"
+      "sha512": "sha512-zK4AcvKcPNtSu7au1bN41rL3Uu2Qkga75CW3YUAMbGBuZQS5FteSuwnlB86FCP9g1UIZWWga5j3ogb5sgLTscA==",
+      "path": "modularsystem.core/1.14.2",
+      "hashPath": "modularsystem.core.1.14.2.nupkg.sha512"
     },
     "MongoDB.Bson/2.14.1": {
       "type": "package",
@@ -2632,12 +2632,12 @@
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
-    "PlataformaOmega.IntegrationLibrary/1.5.0": {
+    "PlataformaOmega.IntegrationLibrary/1.5.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-f/8mWM2Iw/xxEOvVfvl1NG06kc33993qQNCr6XuQuJSFwj7ioZxVj2zahu0wocA7iNGnfP3oshVpvwPwJN5cdg==",
-      "path": "plataformaomega.integrationlibrary/1.5.0",
-      "hashPath": "plataformaomega.integrationlibrary.1.5.0.nupkg.sha512"
+      "sha512": "sha512-jhQ+9jr5/H6cJqFaOyr4kvhgl66cJE5F/76uvdpyBtogFq/Tqj9m4n2qzHjwDgxW5y3AnXBAIoN1vy1IhEZrDg==",
+      "path": "plataformaomega.integrationlibrary/1.5.2",
+      "hashPath": "plataformaomega.integrationlibrary.1.5.2.nupkg.sha512"
     },
     "runtime.any.System.Collections/4.3.0": {
       "type": "package",
