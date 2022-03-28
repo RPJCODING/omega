@@ -23015,13 +23015,13 @@ _.cy=n
 _.$ti=o},
 qd:function qd(a,b){this.c=a
 this.a=b},
-adV(){return new A.R9("http://localhost:1604/api","sale",A.b_Y())},
+adV(){return new A.R9("https://plataformaomega.com.br/api","sale",A.b_Y())},
 R9:function R9(a,b,c){var _=this
 _.a=a
 _.b=b
 _.c=$
 _.d=c},
-af3(){return new A.Rw("http://localhost:1604/api","shipping-tag",A.b02())},
+af3(){return new A.Rw("https://plataformaomega.com.br/api","shipping-tag",A.b02())},
 Rw:function Rw(a,b,c){var _=this
 _.a=a
 _.b=b
