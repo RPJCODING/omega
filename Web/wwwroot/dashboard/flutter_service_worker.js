@@ -3,7 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d547bc8d7d98e3b3b465053caaae9bc6",
+  "assets/AssetManifest.json": "b6549ed3ba564b2138ca2827fdde6498",
+"assets/assets/image/product_placeholder.jpg": "4a190509db3ecc9c7e116f40244653b5",
+"assets/assets/image/shopee_logo.png": "35663fcb08cbe65a85a9437e278a7582",
 "assets/assets/svg/b2w_logo.svg": "2fcb2d55882bfe888e2abd4d08d72b91",
 "assets/assets/svg/correios_logo.svg": "f5130da747783c9a7ceb824020c213e3",
 "assets/assets/svg/leroy_merlin_logo.svg": "578c99a3d35e79093fd4414df70ec0a0",
@@ -42,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0b5f0307eb874e15aec60178a1e93711",
-"/": "0b5f0307eb874e15aec60178a1e93711",
-"main.dart.js": "da82c1766b3de820abd37d5daf2b8655",
+"index.html": "e63dc0df55e7a106ed95b0fff1be9296",
+"/": "e63dc0df55e7a106ed95b0fff1be9296",
+"main.dart.js": "fe82408ab15214d535145ce81f7e8e80",
 "manifest.json": "25c2a5f8c70e96d25d503a427e8d7f65",
 "version.json": "bb85e32a1929029013d07ba0b1ad35e3"
 };
